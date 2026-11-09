@@ -1,0 +1,9 @@
+h1 {color:red;text-align:center;font-size:45px; font-weight:bold;}
+
+.flex-container {display:flex;
+flex-direction:column;
+align-items: center;
+gap:15px;}
+body {background-color:lightblue;}
+h2{color:orange; text-align:center;font-weight:bold;}
+h4{color:purple; text-align:center;font-weight:bold;}
